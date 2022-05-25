@@ -1,0 +1,24 @@
+{
+  "name": {
+    "zh-cn": "NFC模块",
+    "en": "NFC Mudule"
+  },
+  "description": {
+    "zh-cn": "DFR0231：Python模式下用于近距离无线通讯，可以实现读卡写卡",
+    "en": "NFC Mudule"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "DFR0231_pinpong_nfc",
+  "platform": ["win","mac","web","linux"],
+  "version": "0.0.1",
+  "asset": {
+	"python": {
+		"dir": "python/",
+		"main": "main.ts",
+		"dependencies": { }
+  }
+ }
+}
